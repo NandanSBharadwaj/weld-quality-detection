@@ -1,0 +1,12 @@
+Weld Defect classification using Machine Learning Models
+
+This project is a machine learning-based system for detecting and classifying weld defects from images. It allows real-time predictions using Random Forest and Decision Tree classifiers trained on labeled weld images. The model improves over time with user feedback, making it both adaptive and accurate.
+
+Features:
+Supports custom categories for classification
+Trains using Random Forest and Decision Tree classifiers
+Accepts image inputs and returns predicted classes with probabilities
+
+Each image includes:
+Class-wise probability percentages
+Predicted class
